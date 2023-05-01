@@ -20,6 +20,6 @@ API Gateway: API Gateway to expose the API endpoint for the Node.js application 
 
 IAM: IAM to manage access to AWS resources and services, including EC2, ELB, Auto Scaling, ECS, ECR, and API Gateway.
 
-AWS WAF: AWS WAF provides rate limiting and protection against common web exploits.
+
 
 Note: I've used more services not included all
